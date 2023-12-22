@@ -1,4 +1,4 @@
-# excercise_app_ui
+# exercise_app_ui
 
 A new Flutter project.
 
